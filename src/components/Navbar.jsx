@@ -6,7 +6,7 @@ const Navbar = (props) => {
     >
       <div className="container-fluid">
         <a className="navbar-brand" href="#" style={{ marginLeft: 70 }}>
-          <img src="/src/assets/logo3.png" width={50} height={50} />
+          <img src="./public/assets/logo3.png" width={50} height={50} />
         </a>
         <button
           className="navbar-toggler"

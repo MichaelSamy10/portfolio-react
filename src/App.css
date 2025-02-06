@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Poppins";
-  src: url("assets/fonts/poppins/Poppins-Medium.ttf") format("woff");
+  src: url("../public/assets/fonts/poppins/Poppins-Medium.ttf") format("woff");
   /* font-weight: 700; */
   font-style: normal;
   font-display: swap;
@@ -62,7 +62,7 @@ nav {
   height: 100vh;
   top: 0;
   left: 0;
-  background-image: url("./assets/hero4.jpg");
+  background-image: url("../public/assets/hero4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.9;
