@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://MichaelSamy10.github.io/portfolio-react",
+  "homepage": "http://MichaelSamy10.github.io/portfolio-react/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
