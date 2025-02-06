@@ -7,7 +7,7 @@ const Footer = (props) => {
       <div className="container">
         <div className="d-flex justify-content-between align-items-center">
           <a href="#">
-            <img src="/src/assets/logo3.png" width={50} height={50} />
+            <img src="./assets/logo3.png" width={50} height={50} />
           </a>
           <div className="pt-4">
             <div className="nav-item icons d-flex gap-lg-1 ps-lg-3 ps-md-0 justify-content-end mb-2">
